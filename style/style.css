@@ -15,7 +15,7 @@
     text-transform: capitalize;
 }
 
-.nav li a::after{
+.nav li a:after{
     content: " | ";
 }
 
@@ -24,3 +24,8 @@
     font-weight: bold;
 }
 
+/* Presentation */
+
+.presentation{
+    text-align: center;
+}
