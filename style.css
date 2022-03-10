@@ -1,0 +1,27 @@
+.jaune{
+    color: yellow;
+}
+
+h2~p{
+    background-color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: bisque;
+}
+
+h1 {
+    font-size: 30px;
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bouton {
+    border: 1px solid black;
+}
+
+.cessna {
+    width : 500px;
+    height: auto;
+}
