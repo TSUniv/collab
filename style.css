@@ -20,3 +20,8 @@ h1 {
 .bouton {
     border: 1px solid black;
 }
+
+.cessna {
+    width : 100px;
+    height: auto;
+}
